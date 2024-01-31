@@ -1,0 +1,46 @@
+.container {
+    width: 100%;
+    border: none;
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    width: 80%;
+    background: #eee;
+}
+
+.white-box {
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0.5px 0.5px 2px 1px #eee;
+}
+
+.vertical-rule {
+    padding: 20px;
+    border-left: 1px solid #eee;
+}
+
+.btn {
+    padding: 10px;
+    font-size: bold;
+    background-color: aquamarine
+}
+
+.badge {
+    display: inline-block;
+    border: 1px solid lightgray;
+    padding: 3px 12px 5px 12px;
+    margin-right: 2px;
+    margin-bottom: 5px;
+}
+
+.div-right {
+    text-align: center;
+    padding: 30px;
+}
+
+p {
+    padding-bottom: 0;
+}

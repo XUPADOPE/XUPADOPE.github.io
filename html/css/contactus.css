@@ -1,0 +1,54 @@
+.form-background {
+    background-color: gray;
+    padding: 30px;
+    background-color: #eee;
+}   
+
+.form-white {
+    background-color: white;
+}
+
+
+input[type=email] {
+    width: 450px;
+    padding: 5px;
+    font-size: 15px;
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+
+input[type=text] {
+    width: 210px;
+    padding: 5px;
+    font-size: 15px;
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+
+textarea {
+    width: 470px;
+}
+
+button {
+    float: right;
+    width: 120px;
+    padding: 5px;
+    background-color: rgb(255, 184, 86);
+    border-radius: 3px;
+    border: none;
+    color: white;
+}
+
+.first-name {
+    float: left;
+    margin-right: 20px;
+}
+
+.last-name {
+    float: left;
+}
+
+.message {
+    clear: both;
+}
+
